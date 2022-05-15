@@ -15,3 +15,6 @@ Library of common Android functionality and related notes
     - Performance (start up and use)
     - Memory
 
+
+Sidenote: The best Android support code may be the one that radically re-thinks it and possibly transpiles to it.
+
